@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\Sec4PropsEx3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\Sec4PropsEx3.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\Sec4PropsEx3.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\Sec4PropsEx3.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\bin\Debug\net8.0\Sec4PropsEx3.exe
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\bin\Debug\net8.0\Sec4PropsEx3.deps.json
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\bin\Debug\net8.0\Sec4PropsEx3.runtimeconfig.json
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\bin\Debug\net8.0\Sec4PropsEx3.dll
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\bin\Debug\net8.0\Sec4PropsEx3.pdb
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\Sec4PropsEx3.dll
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\refint\Sec4PropsEx3.dll
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\Sec4PropsEx3.pdb
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\Sec4PropsEx3.genruntimeconfig.cache
+C:\Users\vinic\source\repos\Sec4PropsEx3\Sec4PropsEx3\obj\Debug\net8.0\ref\Sec4PropsEx3.dll
